@@ -1,0 +1,25 @@
+name: Bug Report
+description: description
+title: "This is a title"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping!
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behaviour
+      placeholder: A bug happened!
+    validations:
+      required: true
+  - type: drowdown
+    id: os
+    attributes:
+      label: Which OS?
+      multiple: false
+      options:
+        - MacOS
+        - Linux
+        - Windows
+        
