@@ -2,7 +2,7 @@ name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
-assignees: "haldun,hb-haldun-test-account"
+assignees: haldun,hb-haldun-test-account
 body:
   - type: markdown
     attributes:
