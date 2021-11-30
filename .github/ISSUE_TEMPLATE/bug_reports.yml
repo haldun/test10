@@ -23,6 +23,7 @@ body:
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
+      render: swift
     validations:
       required: true
   - type: dropdown
