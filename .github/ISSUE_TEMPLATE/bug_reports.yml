@@ -34,8 +34,6 @@ body:
         - 1.0.2 (Default)
         - 1.0.3 (Edge)
       multiple: true
-    validations:
-      required: true
   - type: dropdown
     id: browsers
     attributes:
