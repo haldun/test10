@@ -4,7 +4,7 @@ title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees: haldun,hb-haldun-test-account
 body:
-  - type: markdown
+  - typez: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report! Hello from @haldun
