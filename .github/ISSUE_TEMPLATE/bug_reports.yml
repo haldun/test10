@@ -6,6 +6,8 @@ assignees: haldun,hb-haldun-test-account
 body:
   - type: input
     id: contact
+    attributes:
+      label: Input
 #   - type: markdown
 #     attributes:
 #       value: |
