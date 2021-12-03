@@ -1,8 +1,8 @@
 name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees: haldun,hb-haldun-test-account
+# description: File a bug report
+# title: "[Bug]: "
+# labels: ["bug", "triage"]
+# assignees: haldun,hb-haldun-test-account
 body:
   - type: input
     id: contact
