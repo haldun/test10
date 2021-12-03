@@ -4,18 +4,12 @@ title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees: haldun,hb-haldun-test-account
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report! Hello from @haldun
-#   - type: input
-#     id: contact
+  - type: input
+    id: contact
+#   - type: markdown
 #     attributes:
-#       label: Contact Details
-#       description: How can we get in touch with you if we need more info?
-#       placeholder: ex. email@example.com
-#     validations:
-#       required: false
+#       value: |
+#         Thanks for taking the time to fill out this bug report! Hello from @haldun
 #   - type: textarea
 #     id: what-happened
 #     attributes:
